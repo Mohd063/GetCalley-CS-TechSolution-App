@@ -6,14 +6,14 @@ This Flutter app was created as part of the CS TechSolution Machine Test Assignm
 
 ## 📂 Demo & APK
 
-- 🎥 [Watch App Demo Video (Google Drive)](https://drive.google.com/your-demo-link)
-- 📦 [Download Debug APK](https://drive.google.com/your-apk-link)
+- 🎥 [Watch App Demo Video (Google Drive)]([https://drive.google.com/your-demo-link](https://drive.google.com/file/d/1M4AXrz8s1MP3mbtP_1MnoSql6Rn_JzYn/view?usp=drivesdk))
+- 📦 [Download Debug APK]([https://drive.google.com/your-apk-link](https://drive.google.com/file/d/1M2AcCRhAvbEA8vpN1aa3dS_CKQCsIobw/view?usp=drivesdk))
 
 ---
 
 ## 🔌 API Integration
 
-- All REST APIs integrated from [GetCalley API Documentation](https://documenter.getpostman.com/view/38199901/2sB34Zpiy9)
+- All REST APIs integrated from [GetCalley API Documentation]
 - `http` package used for network requests  
 - `Provider` used for state management  
 - Error handling and response validation included  
